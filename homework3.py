@@ -4,4 +4,5 @@ age = 31
 print (age)
 age+=1
 print (age)
-print('is_student:',31<32)
+is_student=True
+print('is_student:', is_student)
